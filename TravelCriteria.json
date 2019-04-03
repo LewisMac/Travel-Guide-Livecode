@@ -1,0 +1,8 @@
+{
+  "Date": "Int",
+  "Duration": "Int",
+  "Weather": "String",
+  "Temperature": "Float",
+  "Language": "String",
+  "FlightTime": "Int"
+}
